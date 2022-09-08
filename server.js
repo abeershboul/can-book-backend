@@ -43,7 +43,7 @@ async function seedData(){
 
   const thirdBook = new ModelBooks({
       title: "The Time Keeper",
-      description: "From the author who's inspired millions worldwide with books like Tuesdays with Morrie and The Five People You Meet in Heaven comes his most imaginative novel yet, The Time Keeper--a compelling fable about the first man on Earth to count the hours.",
+      description: "From The author who's inspired millions worldwide with books like Tuesdays with Morrie and The Five People You Meet in Heaven comes his most imaginative novel yet, The Time Keeper--a compelling fable about the first man on Earth to count the hours.",
       status: "Avilable"
   })
 
